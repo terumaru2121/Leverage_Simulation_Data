@@ -9,9 +9,15 @@
 
 - Long-term interest rate
 
+10 year rate
+
 https://stooq.com/q/?s=10usy.b&c=mx&t=l&a=lg&b=0
-https://fred.stlouisfed.org/series/DGS30
-(For year 1887 - 1977, 10 year rate is used) 
+
+30 year rate
+
+1947- https://stooq.com/q/?s=30usy.b&c=mx&t=l&a=lg&b=0
+
+(For year 1887 - 1947, 10 year rate is used)
 
 - SP500 data
 
