@@ -11,7 +11,7 @@
 
 10 year rate
 
-https://stooq.com/q/?s=10usy.b&c=mx&t=l&a=lg&b=0
+1871- https://stooq.com/q/?s=10usy.b&c=mx&t=l&a=lg&b=0
 
 30 year rate
 
@@ -21,8 +21,8 @@ https://stooq.com/q/?s=10usy.b&c=mx&t=l&a=lg&b=0
 
 - SP500 data
 
-https://stooq.com/q/?s=%5ESPX
+1789- https://stooq.com/q/?s=%5ESPX
 
 - SP500 dividend
 
-https://www.longtermtrends.net/sp500-dividend-yield/
+1871- https://www.longtermtrends.net/sp500-dividend-yield/
